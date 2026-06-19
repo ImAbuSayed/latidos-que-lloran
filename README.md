@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-que-lloran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Latidos que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-lloran/) |
+| **Get License** | [Commercial Licensing for Latidos que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-lloran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la luna sabe que te estoy mirando
+> Ese vestido negro me está provocando
+> Esta noche es nuestra, no lo pienses tanto
+> Tus labios me llaman, me tienen temblando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
