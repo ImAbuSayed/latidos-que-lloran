@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Latidos que lloran |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-que-lloran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Latidos que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-lloran/) |
+| **Get License** | [Request Licensing for Latidos que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-lloran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Nena, la luna sabe que te estoy mirando
-> Ese vestido negro me está provocando
-> Esta noche es nuestra, no lo pienses tanto
-> Tus labios me llaman, me tienen temblando
+> Latidos que lloran en la oscuridad
+> Bailan sin control por tu ciudad
+> Solo tú y yo en esta inmensidad
+> Un fuego que no sé cómo apagar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
