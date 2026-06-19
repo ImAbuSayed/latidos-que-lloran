@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Latidos 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:27:02.660396 | `v1` | `335cde7583075201ab2ef4ad1d6c245e7ba50e081b440754d2497c18587464e0` | `25a08d13e4e1eaa215c65f117c0f22b7e1bf7f0f02a5c2d428b619aeee9b5cac` | `2026-06-20_latidos-que-lloran-v1.txt` |
+| 2026-06-20T03:17:21.582550 | `v2` | `b2aaaf3c5f326cb1de9178686b61868b8a894687460ddf570c1c6e4047aa9b58` | `1da1c50cd27d3748ee411ea2397fe28bdda0d03355711748970db54bd6f96ca5` | `2026-06-20_latidos-que-lloran-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

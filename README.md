@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-que-lloran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Latidos que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-lloran/) |
+| **Get License** | [License this song: Latidos que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-lloran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `335cde7583075201ab2ef4ad1d6c245e7ba50e081b440754d2497c18587464e0` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `b2aaaf3c5f326cb1de9178686b61868b8a894687460ddf570c1c6e4047aa9b58` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
